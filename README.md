@@ -8,14 +8,16 @@ To use the simulator, you will need to have a C++ compiler installed on your mac
 
 Once you have a C++ compiler installed, you can clone this repository using Git:
 
-`git clone https://github.com/simonidaa/public_transit_simulator.git`
+`
+  git clone https://github.com/simonidaa/public_transit_simulator.git
+`
 
 
 Then, navigate to the `public_transit_simulator` directory and compile the code using the C++ compiler:
 
 `
-cd public_transit_simulator
-g++ -o main main.cpp
+  cd public_transit_simulator
+  g++ -o main main.cpp
 `
 
 ## Usage
